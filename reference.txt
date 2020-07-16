@@ -1,0 +1,25 @@
+reference
+
+0. Data Visualization
+(seaborn)
+https://seaborn.pydata.org/generated/seaborn.distplot.html
+(heatmap 상관관계분석)
+https://m.blog.naver.com/PostView.nhn?blogId=kiddwannabe&logNo=221205309816&proxyReferer=https:%2F%2Fwww.google.com%2F
+
+
+1. Data preprocessing 
+(열추가, 삭제)
+https://developer-ankiwoong.tistory.com/177
+(Loc 파라미터)
+https://www.geeksforgeeks.org/python-pandas-dataframe-loc/
+(테이블 슬라이스 및 인덱싱)
+https://kongdols-room.tistory.com/113
+(유일값 찾기, 중복값 및 결측치 처리)
+https://rfriend.tistory.com/267
+(OneHotEncoder)
+https://3months.tistory.com/207
+
+2. Data statistic
+(statistic)
+https://python.flowdas.com/library/statistics.html
+
