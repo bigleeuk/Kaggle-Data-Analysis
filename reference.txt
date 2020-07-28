@@ -23,3 +23,6 @@ https://3months.tistory.com/207
 (statistic)
 https://python.flowdas.com/library/statistics.html
 
+(sklearn의 train_test_split() 사용법)
+https://blog.naver.com/PostView.nhn?blogId=siniphia&logNo=221396370872&parentCategoryNo=&categoryNo=22&viewDate=&isShowPopularPosts=true&from=search
+
